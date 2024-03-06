@@ -4,8 +4,8 @@ Welcome to the KoinX Frontend Internship Assignment! This README provides all th
 
 ## Deployed Links
 
-- **Main Assignment:** [Link](https://prakhar-frontend-koinx-prakhar12330.vercel.app/)
-- **Optional Task:** [Link](https://xcrypto-liart.vercel.app/coins)
+- **Main Assignment Deployed Link:** [Link](https://prakhar-frontend-koinx-prakhar12330.vercel.app/)
+- **Optional Task Deployed Link:** [Link](https://xcrypto-liart.vercel.app/coins)
 
 ## Job Details
 
